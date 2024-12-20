@@ -374,7 +374,7 @@ def brute_srv(res, domain, verbose=False, thread_num=None):
         '_x-puppet._tcp.',
         '_x-puppet-ca._tcp.',
         '_autodiscover._tcp.',
-           '_PKIXREP._tcp.',
+        '_PKIXREP._tcp.',
         '_aix._tcp.',
         '_autodiscover._tcp.',
         '_caldav._tcp.',
